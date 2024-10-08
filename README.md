@@ -53,8 +53,6 @@ Copilot
 Sure thing! Here's a draft for a README.md file:
 
 markdown
-
-Copy
 # Personal Task Manager
 
 ## Description
@@ -73,13 +71,11 @@ Install dependencies:
 
 bash
 
-Copy
 npm install
 Start the development server:
 
 bash
 
-Copy
 npm start
 Open your browser and navigate to:
 
