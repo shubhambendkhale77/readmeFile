@@ -13,10 +13,7 @@ The Personal Task Manager is a web application designed to help users keep track
 ## Setup Instructions
 To set up the Personal Task Manager on your local machine, follow these steps:
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/personal-task-manager.git
-   cd personal-task-manager
+
 ## Install dependencies:
 npm install
 ## Start the development server:
